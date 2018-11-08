@@ -6,7 +6,7 @@ It is backed with Webpack, Bootstrap 4, HTML5 Boilerplate and Jquery.
 It bundles and minifies CSS & JS.
 
 This is a simple generator intended to be a base for your next project. Used as is can generate static pages to be published as they are or to be included in CMS template files. Could be expanded and customized with your npm packages to do more than that.
-This is intended to be a continuation of the famous [Yeoman Webapp Generator](http://yeoman.io/learning)
+This is intended to be a continuation of the famous [Yeoman Webapp Generator](https://github.com/yeoman/generator-webapp)
 Generator Backbox should be a starting point; of course there is room to improve and if you feel you'd like to contribute, I will be happy.
 
 
